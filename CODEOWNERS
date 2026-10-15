@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @SKekana
+/src/backend/database.py      @SKekana
+/src/backend/routers/auth.py  @SKekana
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @SKekana
